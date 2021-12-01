@@ -1,0 +1,224 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #FF3701;
+	margin: auto;
+
+}
+
+header{
+	width: 900px;
+	height: 90px;
+	border: 0px solid #000;
+}
+
+#logo{
+	width: 300px;
+	height: 100px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.titulo{
+	margin-top: 25px;
+	font-size: 35px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+	color:#006699;
+}
+
+
+.menu{
+	width: 560px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 20px;
+	background: #FF3701;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff; 
+}
+
+.menu ul li a:hover{
+	background: #fff;
+	color: #FF3701;
+	transition: background 1s, color 1s;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 250px;
+}
+
+#{
+	margin-top: -5px;
+	width: 600px;
+	height: 250px;
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 15px;
+}
+
+.uno{
+	width: 288px;
+	height: 370px; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	text-align: center;
+	color: rgb(253, 59, 0);
+	padding: 5px;
+
+
+}
+
+.historia {
+	color:rgb(253, 59, 0);
+} 
+
+
+.unouno{
+	width: 304px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	text-align: center;
+	color: #FF3701;
+	padding: 5px;
+	
+
+}
+.center {
+	position: relative;
+	float: left;
+	width: 600px;
+	height: 100px;	
+}
+.center2{
+	position: relative;
+	float: left;
+	width: 800px;
+	height: 100px;
+	
+}
+.boton{
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+.parrafo{
+	color: #707070;
+	text-align: justify;
+}
+.dos{
+	position: relative;
+	top:10px;
+}
+
+
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px; color: 
+}
+
+#izq{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px; color: #4682b4;
+}
+
+.img{
+	margin-right: 7px;
+	margin-bottom: 7px;
+}
+
+
+#der{
+	width: 290px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: right;
+	color: 
+}
+
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+
+
+#footer p{
+	width: 500px;
+}
+
+/*------------contacto------------------------*/
+#formulario{
+	width: 432px;
+	height: auto;
+	overflow: hidden;
+	border: 1px solid #ccc;
+	padding: 5px;
+	float: left
+}
+
+#mapa{
+	width: 432px;
+	height: auto;
+	overflow: hidden;
+	border: 1px solid #ccc;
+	padding: 5px;
+	float: right;
+}
+
+input[type="text"]{
+	border: 1px solid #c1c1c1; padding: 6px;
+	width: 97%;
+}
+
+textarea{
+	border: 1px solid #c1c1c1; padding: 6px;
+	width: 97%;
+}
+
+.enviar{
+	padding: 10px 20px;
+	background: #006699;
+	color: #fdfdfd;
+	font-size: 16px;
+}
+
+#form{}
+
+#datos{
+	margin-top: 30px;
+}
